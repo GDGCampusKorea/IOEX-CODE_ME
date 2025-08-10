@@ -19,7 +19,7 @@ CODE:ME에서 나만의 이야기를 찾고, 앞으로 나아갈 방향을 설�
 - 2025년 8월2일(토)에 진행된 I/O Extended : CODE:ME - 개발자 퍼스널 브랜딩 with AI 행사에서 Hands-on Part.2 에 사용된 "Gemini(2.5-Pro)" 기반 커리어 분석 특화 Gemini 챗봇 리소스에 대한 Colab Notebook File 입니다. 
 
 - 이벤트 링크: https://event-us.kr/gdgcampuskorea/event/107563
-- Gemini Resource 챗봇 리소스 가이드 Docs: https://bigbread-1129.notion.site/2025-I-O-Extended-CODE-ME-Part-2-24068dfea1ae80038620c9c505b04673
+- Gemini Resource 챗봇 리소스 가이드 Docs: https://bigbread-1129.notion.site/2025-I-O-Extended-CODE-ME-Part-2-1e668dfea1ae80d4b808fd2ef40ad6e2
 
 ---
 
